@@ -37,6 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\PlanetPhysics.cs" />
+     <Compile Include="Assets\UniverseController.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:/Program Files/Unity engine/2020.1.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -572,31 +573,31 @@
         <HintPath>D:/Program Files/Unity engine/2020.1.3f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/OrbitsUnity/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/OrbitsUnity/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/OrbitsUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/OrbitsUnity/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/OrbitsUnity/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/OrbitsUnity/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/OrbitsUnity/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/OrbitsUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/OrbitsUnity/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>D:/Mathijs/Documents/GitHub/OrbitsUnity/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
