@@ -36,8 +36,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\PlanetPhysics.cs" />
-     <Compile Include="Assets\UniverseController.cs" />
+     <Compile Include="Assets\universeController.cs" />
+     <Compile Include="Assets\planetPhysics.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:/Program Files/Unity engine/2020.1.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
